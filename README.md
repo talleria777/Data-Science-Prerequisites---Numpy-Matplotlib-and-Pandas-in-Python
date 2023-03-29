@@ -59,6 +59,6 @@ He has created deep learning models for prediction and has experience in recomme
 ## Related Products
 
 <li> <a href="https://github.com/PacktPublishing/Deep-Learning---Artificial-Neural-Networks-with-TensorFlow">Deep Learning - Artificial Neural Networks with TensorFlow [Video] </a> 
-<a href="https://github.com/PacktPublishing/Deep-Learning---Convolutional-Neural-Networks-with-TensorFlow">Deep Learning - Convolutional Neural Networks with TensorFlow [Video]
+<li><a href="https://github.com/PacktPublishing/Deep-Learning---Convolutional-Neural-Networks-with-TensorFlow">Deep Learning - Convolutional Neural Networks with TensorFlow [Video] </a>
 <li><a href="https://github.com/PacktPublishing/Data-Science---Time-Series-Forecasting-with-Facebook-Prophet-in-Python">Data Science - Time Series Forecasting with Facebook Prophet in Python [Video] </a>
 <li><a href="https://github.com/PacktPublishing/Deep-Learning---Recurrent-Neural-Networks-with-TensorFlow"> Deep Learning - Recurrent Neural Networks with TensorFlow [Video] </a>
