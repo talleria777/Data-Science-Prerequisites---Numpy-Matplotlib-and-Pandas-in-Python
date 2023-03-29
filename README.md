@@ -8,6 +8,12 @@ This is the code repository for [Data Science Prerequisites - NumPy, Matplotlib,
 
 You can find all the course resources and notebooks by registering at this [link](https://lazyprogrammer.me/numpy).
 
+**Follow these steps to access the course code bundle**
+
+1. Click on the link provided above
+2. If you're logging in for the first time, create an account by adding your username, email id, and setting a password
+3. After registering, click on the link again and you will be redirected to the course assets page where you can download the course notebooks and additional resources
+
 ## About Course
 
 Welcome to the course where you will learn about the NumPy stack in Python, which is an important prerequisite for deep learning, machine learning, and data science.  
